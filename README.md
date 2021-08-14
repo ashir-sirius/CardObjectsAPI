@@ -11,3 +11,5 @@ Before running the code of app.py, install these dependencies,
 1- pip install opencv-python
 
 2- pip install numpy
+
+3- pip install Flask
